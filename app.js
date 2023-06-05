@@ -39,12 +39,13 @@ function calcAverage (arrValues){
 calcAverage([14, 34, 45, 50, 55, 70, 125, 67, 80]);
 
 
-//function that checks if a number, n is divisible by two numbers x and y.
+
 
 /****
  * 3. 
  ****/
 
+//function that checks if a number, n is divisible by two numbers x and y.
 
 function divisionChecker(number, a, b) {
     
@@ -56,7 +57,7 @@ function divisionChecker(number, a, b) {
 
 }
 
-divisionChecker(77, 2, 4);
+divisionChecker(76, 2, 4);
 
 
 
